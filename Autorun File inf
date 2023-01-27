@@ -1,0 +1,9 @@
+[autorun]
+open=myfile.exe
+action=open
+shell\open\command=myfile.exe
+shell\open\default=1
+shell\verb\command=myfile.exe /parameter
+shell\verb\Name=Open MyFile
+shell\verb\icon=myicon.ico
+icon=myicon.ico
